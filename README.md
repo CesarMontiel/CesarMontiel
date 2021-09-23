@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Cesar Montiel
-- 👀 I’m interested in videogames and programming
-- 🌱 I’m currently learning react and spring
-- 📫 How to reach me ...
+- Hi, I’m Cesar Montiel
+- I’m interested in videogames and programming
+- I’m currently learning react and spring
 
 <!---
 CesarMontiel/CesarMontiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
