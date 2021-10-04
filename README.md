@@ -1,1 +1,1 @@
-Un simple investigador queriendo ser desarrollador. 
+Investigador del Instituto Mexicano del Transporte
